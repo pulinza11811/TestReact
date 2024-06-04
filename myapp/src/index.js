@@ -4,10 +4,7 @@ import './index.css';
 import App from './App';
 import Hello from './Hello';
 
-import {
-  createBrowserRouter,
-  RouterProvider
-} from 'react-router-dom';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 const router = createBrowserRouter([
   {
